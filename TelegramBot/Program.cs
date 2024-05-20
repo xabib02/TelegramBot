@@ -4,6 +4,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Telegram.Bot.Types;
 using Telegram.Bot.Requests;
+//перевод по узбек не понятной слово
 
 namespace TelegramBot
 {
